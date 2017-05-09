@@ -1,0 +1,33 @@
+Welcome to News Feed Appcelerator Titanium Mobile Project
+
+Pre-requisites to compile this solution
+1.- iOS or android SDK installed
+2.- Appcelerator Titanium installed
+
+ 
+In order to compile the project using Appcelerator Titanium 
+The following steps are needed:
+ 
+1.- First it is needed to create a Appcelerator Classic blank project
+2.- Copy all files from the Resource folder from this solution to blank project	
+3.- In order to test for an Android OS is highly recommended to use the 
+	run for device option in the appcelerator studio
+	
+
+The settings used to create this solution were:
+
+Name                        = Mac OS X
+ 	Version                     = 10.11.6
+ 	Architecture                = 64bit
+ 	# CPUs                      = 4
+ 	Memory                      = 17179869184
+
+Node.js
+	Node.js Version             = 4.6.0
+  	npm Version                 = 2.15.9
+  	
+Titanium CLI
+  	CLI Version                 = 5.0.11
+  	
+Titanium SDK
+  	SDK Version                 = 6.0.2.GA
